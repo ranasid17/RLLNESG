@@ -1,6 +1,8 @@
 # RLLNESG
 Reinforcement Learning for Learning Nash Equilibrium in Strategic Games
 
+YouTube Discussion: https://youtu.be/CrQFyXsb10c?si=cZVTELPpmcIK9a5m
+
 ## **Execution instructions**
 
 1. Save the YAML file as env.yml in your project directory.
