@@ -1,6 +1,18 @@
 # RLLNESG
 Reinforcement Learning for Learning Nash Equilibrium in Strategic Games
 
+## **Execution instructions**
+
+1. Save the YAML file as env.yml in your project directory.
+2. Run the following in directory with yml.
+```conda env create -f environment.yml```
+3. Run the following:
+```conda activate open_spiel_env```
+4. Install and open Jupyter
+```pip install notebook```  
+```jupyter notebook```
+5. Run test.ipynb in Jupyter 
+
 ## **Problem statement** 
 
 I propose applying reinforcement learning (RL) algorithms to strategic normal form games to test how well, or if at all, RL agents can converge onto the theore;cal equilibrium for a game. I want to iden;fy the following:
